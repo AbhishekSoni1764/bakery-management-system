@@ -10,5 +10,5 @@ Libraries Used are:
   pandas
   matplotlib
  
-Created by Shreyansh Khandelwal and Abhishek Soni.
+Created by Shreyansh Khandelwal (https://github.com/SHREYANSHSK) and Abhishek Soni.
   
